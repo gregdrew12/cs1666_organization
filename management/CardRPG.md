@@ -27,8 +27,14 @@
 1. 10/20 - 10/26
 	* Manager: Gabe Balannik
 	* Goals:
-		1. GOALHERE
-		...
+		1. Create the framework for loading assets
+			1. load card textures into player deck
+			2. load list of cards and their effects from file
+			3. load spritesheets into overworld and render
+		2. Scene transitions
+			1. be able to transition between overworld and battle
+			2. add function to menu screen with play, quit, credits buttons
+			3. fixed timestep for animations
 1. 10/27 - 11/2
 	* Manager: Louisa Li
 	* Goals:
