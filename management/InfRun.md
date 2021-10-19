@@ -21,8 +21,18 @@
 1. 10/20 - 10/26
 	* Manager: Mateen Kasim
 	* Goals:
-		1. GOALHERE
-		...
+		1. Entire team goals - PRIORITY
+			1. Make framerate independent of hardware
+				* Lock to 60fps
+			2. Refactor game code to approach the gameplay we really want
+				* Player is horizontally fixed on screen, while the terrain and background move around the player
+				* Change the game from _really long_ runner to _infinite_ runner
+				* Make the code more amenable to using procedurally generated terrain
+		2. Advanced topic sub-team goals:
+			1. Procedural gen: Get player movement to work when given non-linear terrain, e.g. simple random curves for hills
+			2. Physics: Move all physics calculations into `physics.rs`, i.e. begin to fill out and utilize the Physics API skeleton from last week
+		3. Presentations:
+			* Physics outline due 10/27
 1. 10/27 - 11/2
 	* Manager: Elliot Snitzer
 	* Goals:
