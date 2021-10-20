@@ -22,8 +22,12 @@
 1. 10/20 - 10/26
 	* Manager: Jake Sweeney
 	* Goals:
-		1. GOALHERE
-		...
+		1. Main: Get the character animated (left and right movement animation, 
+		         as well as jumping animation), and add a main menu
+		3. Networking team: Create a basic server that receives player locations 
+		         and broadcasts them to a client program
+		5. Physics Team:  Implement rectangle colliders for player, floor tiles, 
+		         and portal mechanics
 1. 10/27 - 11/2
 	* Manager: Kira Tsvetkova
 	* Goals:
