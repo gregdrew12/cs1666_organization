@@ -26,8 +26,22 @@
 1. 10/20 - 10/26
 	* Manager: Zirui Huang
 	* Goals:
-		1. GOALHERE
-		...
+		1. Frame independent movement
+		     * Movement 
+		     * Melee attack cooldown and damage
+		     * Ranged attack cooldown, damage, and speed
+		2. HUD 
+		     * Basic health bar (implement immunity after taking chunk damage)
+   		     * A space for money
+   		     * A space for mana (maybe implement mana since it should just be a number and an if statement?)
+   		     * Equipped weapons and abilities
+		3. Attacks
+		     * Ranged enemy
+		     * Ranged player attack
+		4. Procedural Generation Team:
+		    * Outline for presentation
+		    * Begin generation algorithm
+		
 1. 10/27 - 11/2
 	* Manager: Victor Mui
 	* Goals:
