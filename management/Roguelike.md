@@ -11,8 +11,18 @@
 1. 10/6 - 10/19
 	* Manager: Marshall Lentz
 	* Goals:
-		1. GOALHERE
-		...
+		1. Implement player movement
+			* Allow the player to move around the game world
+			* Make the camera follow the player
+			* Implement basic player attack
+		2. Implement simple enemy movement
+			* Have the enemies move around randomly when idle
+			* Have one kind of enemy chase the player and attack when close
+		3. Procedural generation: implement the starting room
+			* Create one room for the player to start in
+			* Keep the players within the bounds of the room by implementing wall collisions
+		4. Physics engine: begin experimenting with knockback
+			* When the player attacks an enemy, have the enemy be knocked back a certain distance
 1. 10/20 - 10/26
 	* Manager: Zirui Huang
 	* Goals:
@@ -39,7 +49,7 @@
 		1. GOALHERE
 		...
 1. 12/1 - 12/7
-	* Manager: NAME
+	* Manager: Yihua Pu
 	* Goals:
 		1. GOALHERE
 		...

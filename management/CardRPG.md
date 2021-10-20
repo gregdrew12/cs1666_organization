@@ -11,8 +11,19 @@
 1. 10/6 - 10/19
 	* Manager: Merrick Johnston
 	* Goals:
-		1. GOALHERE
-		...
+		 1. create the entire combat system
+		 	 1. setup backend data structures such as;
+				 1. player: overaching structs for tracking the combat per player
+				 1. deck: queues built into players holding keys to a hash table that fills in random order from the players 
+					available cards
+				 1. hand: a vector to hold copies of cards vurrently in hand
+				 1. Cards:a hashtable holding all cards for quick access and removing the need to copy each card into queue outside
+					the combat to pull from
+			 1. begin setting up other systems
+				 1. start implimenting the overworld movement (specifically movement around the wilds area)
+				 1. get basic starting screen set up (get a play and quit button)
+				 1. make card assets
+	
 1. 10/20 - 10/26
 	* Manager: Gabe Balannik
 	* Goals:

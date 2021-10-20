@@ -24,7 +24,7 @@
 		1. GOALHERE
 		...
 1. 11/3 - 11/9
-	* Manager: NAME
+	* Manager: Colin Woelfel
 	* Goals:
 		1. GOALHERE
 		...
