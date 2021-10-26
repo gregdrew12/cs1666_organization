@@ -36,8 +36,15 @@
 1. 10/27 - 11/2
 	* Manager: Elliot Snitzer
 	* Goals:
-		1. GOALHERE
-		...
+		1. A simple "base game" will be demonstrated without the advanced topics implemented, including:
+			a. Player Movement (jumping & flipping)
+  			b. Game-ending collisions
+  			c. Static obstacles (collision with static obstacles not necessarily generating static obstacles through procedural generation)
+  			d. Collectible coins (coin collection as well as collision with coin objects still need to be implemented)
+		2. Demonstrable backend progress towards implementation of procedural terrain generation.
+		3. Demonstrable backend progress towards implementation of a physics engine.
+		4. Physics research into how to implement several features to be described in our presentation (Ex: Rotation and how to calculate moments of inertia for 			   different objects, determination of endgame collisions using hitboxes or angle of terrain compared to angle of player upon landing)
+		5. COMMENT ALL CODE AS MUCH AS POSSIBLE
 1. 11/3 - 11/9
 	* Manager: Michael Daley
 	* Goals:
