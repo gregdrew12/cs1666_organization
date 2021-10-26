@@ -16,14 +16,26 @@
 
 ## Presentation 2
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* General Physics Engine Overview (5 mins)
+	* Quick recap Physics 1 presentation, highlighting aspects especially relevant to our game
+* Detecting Collisions (15 mins)
+	* Our Implementation for Rigid Body Collision Detection
+		* Ground/Player Collisions
+		* Obstacle/Player, Obstacle/Obstacle, Terrrain/Obstacle Collisions
+* Applying Forces (15 mins)
+	*  General overview of our approach to applying forces
+	*  Analysis of the forces most prominent in our game & how they are applied:
+		*  Gravity
+		*  Rotation, Rotational Inertia, Torque
+		*  Collision Forces, Multibody Collsions & "Particle" Tracking
+		*  Friction 
+		*  Buoyancy
+* Constraints & Assumptions in our Implementation (10 mins)
+	* Emphasize where & why we are making assumptions when simulating physical phenomena
+		* Forces we are neglecting
+		* Treating objects & Mass
+		* Hitboxes
+		* Player's x bounded screen location
 
 ## Presentation 3
 
