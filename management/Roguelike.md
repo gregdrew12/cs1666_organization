@@ -45,8 +45,15 @@
 1. 10/27 - 11/2
 	* Manager: Victor Mui
 	* Goals:
-		1. GOALHERE
-		...
+		1. Finalize first playable level
+		    * Add procedural generation for new rooms
+		    * Add hallways for new rooms
+		2. Add Crates
+		    * Crates can be moved
+		3. Add number counter for coins on HUD
+		4. Add different type of projectiles
+		    * Fireball
+		    * Slimeball (maybe bouncy / ricochet)
 1. 11/3 - 11/9
 	* Manager: Daniel Stirling
 	* Goals:
