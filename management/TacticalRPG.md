@@ -24,8 +24,9 @@
 5. 10/27 - 11/2
 	* Manager: Jake Baumbaugh
 	* Goals:
-		1. GOALHERE
-		...
+		1. End turn button displaying on-screen with current backspace functionality
+		2. Implement basic AI for barbarians
+		3. Room joining for multiplayer with some message to player when both joined (not necessarily in GUI)
 6. 11/3 - 11/9
 	* Manager: Colin Woelfel
 	* Goals:
