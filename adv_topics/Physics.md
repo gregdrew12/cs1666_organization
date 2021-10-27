@@ -16,14 +16,23 @@
 
 ## Presentation 2
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* General Physics Engine Thinga (10 mins)
+	* Quick recap Physics 1 presentation, building on aspects especially relevant to our game
+	* Intro to Rotational Motion Physics
+* Applying Forces (25 mins)
+	*  General overview of our approach to applying forces
+	*  Deatiled analysis of the forces most prominent in our game & how they are applied:
+		*  Gravity
+		*  Rotation, Rotational Inertia, Torque
+		*  Collision Forces, Multibody Collsions & "Particle" Tracking
+		*  Friction 
+		*  Buoyancy
+* Constraints & Assumptions in our Implementation (10 mins)
+	* Emphasize where & why we are making assumptions when simulating physical phenomena
+		* Forces we are neglecting
+		* Treatment of objects & mass
+		* Hitboxes
+		* Player's x bounded screen location
 
 ## Presentation 3
 
