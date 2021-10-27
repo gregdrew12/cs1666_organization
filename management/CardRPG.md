@@ -38,8 +38,23 @@
 1. 10/27 - 11/2
 	* Manager: Louisa Li
 	* Goals:
-		1. GOALHERE
-		...
+		1. Playable combat system/engine
+			- Each player will have a deck size of 20
+			- Starting hand size of 5, max hand size of 7
+			- Drawing/Synergistic attack mechanics
+			- Mana/Energy management
+			- Win/Lose conditions
+				- Namely HP or running out of cards
+			- Assortment of cards
+				- 4 standard attack cards
+				- 2 status attack cards
+				- 3 defend cards
+				- 2 heal cards
+				- 2 distinct status cards
+			- Scripted Enemy
+				- There will be a scripted boss fight. This fight will simply show how the battle system works.
+
+
 1. 11/3 - 11/9
 	* Manager: David Bieler
 	* Goals:
