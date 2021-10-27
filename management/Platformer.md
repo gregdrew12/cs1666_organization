@@ -31,8 +31,11 @@
 1. 10/27 - 11/2
 	* Manager: Kira Tsvetkova
 	* Goals:
-		1. GOALHERE
-		...
+		1. Basic graphics done (all sprites and level assets)
+		2. Basic rigidbody physics system done (rectangular colliders that have gravity/weight/friction)
+		3. Basic portal creation/traversal (objects can teleport but do not conserve momentum)
+		4. One basic "test" level to show off mechanics
+		5. Progress towards online functionality
 1. 11/3 - 11/9
 	* Manager: Austin Brothers
 	* Goals:
