@@ -29,11 +29,23 @@
 
 ## Presentation 2
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Overview (5 min.)
+    * Review of topics from first presentation that we will reference
+        * Minimax
+* Further AI topics (20 min.)
+    * Probability
+        * Bayes’ Theorem and Bayesian Networks
+        * Markov’s Assumption
+        * Utility Theory
+    * Partially Observable Games
+        * Monte Carlo Search Tree
+* Card Game Examples (10 min.)
+    * Poker
+        * Early example of card game AI
+    * Hearthstone
+        * Overview of game’s AI
+        * Theory of AI systems in card games
+* Our game’s AI (10 min.)
+    * Gameplay systems
+    * Goals for AI 
+    * Implementation
