@@ -81,22 +81,6 @@
 	* Why one player only controls one portal / one set of portal
 		* Otherwise many bug opportunities
 
-
-		
-
-			
-
-
-
-		
-
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
-
 ## Presentation 3
 
 * Topic 1
