@@ -48,10 +48,13 @@
 1. 11/3 - 11/9
 	* Manager: Michael Daley
 	* Goals:
-		1. Begin Implementating last weeks backend work on Bezier Curves (Procedural Gen)
-		2. Procedural Generation Outline (due 11/8)
-		3. Begin implementing the visualizations of last weeks backend physics work on collision resolution (Physics)
-		4. Implement Friction as a force and acceleration up & down hills based on slope (Physics)
+		1. Procedural Generation
+			a. Begin Implementating last weeks backend work on Bezier Curves
+			b. Procedural Generation Outline (due 11/8)
+		2. Physics Engine
+			a. Begin implementing the visualizations of last weeks backend physics work on collision resolution (Physics)
+			b. Implement Friction as a force 
+			c. Implement acceleration up & down hills based on slope & constant friction
 1. 11/10 - 11/16
 	* Manager: Ben Ungar
 	* Goals:
