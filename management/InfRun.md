@@ -52,7 +52,7 @@
 			1. Begin Implementating last weeks backend work on Bezier Curves
 			2. Procedural Generation Outline (due 11/8)
 		2. Physics Engine
-			1. Begin implementing the visualizations of last weeks backend physics work on collision resolution
+			1. Begin implementing the visualizations of last weeks backend work on collision resolution
 			2. Implement Friction as a force 
 			3. Implement acceleration up & down hills based on slope & constant friction
 1. 11/10 - 11/16
