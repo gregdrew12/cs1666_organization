@@ -30,7 +30,12 @@
 6. 11/3 - 11/9
 	* Manager: Colin Woelfel
 	* Goals:
-		1. GOALHERE
+		1. update attack function so that barbarian + player units can be defeated
+		2. display result of attack on screen
+		3. display unit health
+		4. create outline/psuedocode for enemy AI
+		5. being implementation of enemy AI -- develop AI objective for both castles
+		6. implement GUI component of network to display that players are in room together
 		...
 7. 11/10 - 11/16
 	* Manager: Bianca Finamore
