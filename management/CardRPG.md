@@ -58,7 +58,13 @@
 1. 11/3 - 11/9
 	* Manager: David Bieler
 	* Goals:
-		1. GOALHERE
+		1. Start on implementing card effects
+			- Damage card subtracting health
+			- Heal card adding health
+			- Block cards reducing damage
+			- Status cards effects
+		2. Improve UI
+			- Make cards more readable
 		...
 1. 11/10 - 11/16
 	* Manager: Derek Halbedl
