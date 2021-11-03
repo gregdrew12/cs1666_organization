@@ -39,8 +39,15 @@
 1. 11/3 - 11/9
 	* Manager: Austin Brothers
 	* Goals:
-		1. GOALHERE
-		...
+		1. Main: 
+		 	- Create a bugs markdown file, to monitor bugs found with the game. Start fixing bugs as they are found. 
+		 	- Implement a system to support multiple levels.
+		2. Networking:
+			- Have host and remote instances communicate across two separate systems.
+			- Send the rest of the important data to remote instance, such as animations, portals, objects, etc.
+		3. Physics:
+			- Add block and player's ability to carry block. Implement collision resolutions for block object.
+			- Start working on conserving forces such as momentum through portals.
 1. 11/10 - 11/16
 	* Manager: Evan Moran
 	* Goals:
