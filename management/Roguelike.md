@@ -57,8 +57,14 @@
 1. 11/3 - 11/9
 	* Manager: Daniel Stirling
 	* Goals:
-		1. GOALHERE
-		...
+		1. Merge procedural generation system with working room from previous weeks
+		    * Create a start and end position and ensure no enemies spawn in these rooms. 
+		    * Add random enemy/object spawning to individual rooms 
+		2. Fix collision
+		    * Crates can be moved
+		    * Ensure player doesn’t get stuck on walls, objects, and corners 
+		    * Fix corridor hit boxes to allow player to traverse more easily
+		    * Make sure projectiles and enemies cannot go through obstacles
 1. 11/10 - 11/16
 	* Manager: Davon Allensworth
 	* Goals:
