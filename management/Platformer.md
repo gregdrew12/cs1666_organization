@@ -44,10 +44,11 @@
 		 	- Implement a system to support multiple levels.
 		2. Networking:
 			- Have host and remote instances communicate across two separate systems.
-			- Send the rest of the important data to remote instance, such as animations, portals, objects, etc.
+			- Send and unpack bytes for animations an portals so remote instance reflects portal postitions and animations of host instance.
 		3. Physics:
 			- Add block and player's ability to carry block. Implement collision resolutions for block object.
-			- Start working on conserving forces such as momentum through portals.
+			- Work on conserving momentum when hopping through a ground portal to a wall portal. If player has momentum in the y direction
+			and enters a ground portal, that momentum should be conserved in the x direction, when exiting a wall portal.
 1. 11/10 - 11/16
 	* Manager: Evan Moran
 	* Goals:
