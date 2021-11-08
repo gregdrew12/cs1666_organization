@@ -116,11 +116,11 @@ At the start of the game, both teams start in opposite corners of the map. Both 
     * After killing a barbarian, there is a random chance that the player will receive an additional unit spawned at their castle
     * Player can choose which class that unit will be
 * 15% - Implement combat system & user interaction
-    * Hovering over player's unit displays a cursor around the unit
+    * Hovering over a player's unit displays a cursor around the unit
     * Clicking on a player's unit will make a context menu appear with options to make the unit move or attack
     * Clicking on the "move" option will highlight the tiles that the unit can move to
     	* Clicking on a highlighted tile will move the unit to that tile
-    * Clicking on the "attack" option will highlight the tile in the unit's attack range
+    * Clicking on the "attack" option will highlight the tiles in the unit's attack range
     	* Clicking on a highlighted tile that contains a non-player unit will make the player unit attack that unit
     * After a player unit has moved and attacked, it will be grayed out, and will be unable to perform any more actions until the player's next turn
 * 5% - Implement win & lose conditions
