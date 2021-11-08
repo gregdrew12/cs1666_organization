@@ -36,24 +36,24 @@
 
 ## Presentation 3: Roguelike
 
-* Introduction
+* Introduction (5 min)
 	* Quick summary of Newtonian physics
-* Examples of physics simualtions in other games
+* Examples of physics simualtions in other games (5 min)
 	* A simple and complex simulation
-* Top Down physics
+* Top Down physics (10 min)
 	* No gravity
 	* Friction and mass simulation
 	* Ballistics projectiles and richochet
 	* Rigidbody and soft body physics
-	* raycast collision detection based on vectors
-* Collision Detection
+	* Raycast collision detection based on vectors
+* Collision Detection (10 min)
 	* Check all rigidbodies for collisions
 	* Benefits of raycasting
-* Collision resolution
+* Collision resolution (10 min)
 	* Types of collisions
 		* Static vs. Dynamic
 	* Impulses and Linear algebra
 	* Common bugs caused by processing
-* Closing Statements
+* Closing Statements (5 min)
 	* Show the current state of the physics system
 	* Talk about possible improvements
