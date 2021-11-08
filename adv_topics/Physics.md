@@ -34,13 +34,26 @@
 		* Hitboxes
 		* Player's x bounded screen location
 
-## Presentation 3
+## Presentation 3: Roguelike
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Introduction
+	* Quick summary of Newtonian physics
+* Examples of physics simualtions in other games
+	* A simple and complex simulation
+* Top Down physics
+	* No gravity
+	* Friction and mass simulation
+	* Ballistics projectiles and richochet
+	* Rigidbody and soft body physics
+	* raycast collision detection based on vectors
+* Collision Detection
+	* Check all rigidbodies for collisions
+	* Benefits of raycasting
+* Collision resolution
+	* Types of collisions
+		* Static vs. Dynamic
+	* Impulses and Linear algebra
+	* Common bugs caused by processing
+* Closing Statements
+	* Show the current state of the physics system
+	* Talk about possible improvements
