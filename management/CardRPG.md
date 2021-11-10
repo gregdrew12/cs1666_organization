@@ -70,7 +70,7 @@
 		3. Transition back to the overworld after a battle is won/lost
 			- Play will resume from the previous overworld position.
 			- Enemy will no longer be there to avoid instantly triggering another battle
-		4. Complete backend decision tree data structures and begin implementation of CPU opponent minimax algorithm
+		4. Continue work on backend decision tree data structures and begin implementation of CPU opponent minimax algorithm
 		5. Client to Client communication via a Server
 			- Be able to demonstrate clients sending to and receiving data from the server in some capacity
 		
