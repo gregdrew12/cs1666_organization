@@ -39,8 +39,16 @@
 1. 11/3 - 11/9
 	* Manager: Austin Brothers
 	* Goals:
-		1. GOALHERE
-		...
+		1. Main: 
+		 	- Create a bugs markdown file, to monitor bugs found with the game. Start fixing bugs as they are found. 
+		 	- Implement a system to support multiple levels.
+		2. Networking:
+			- Have host and remote instances communicate across two separate systems.
+			- Send and unpack bytes for animations an portals so remote instance reflects portal postitions and animations of host instance.
+		3. Physics:
+			- Add block and player's ability to carry block. Implement collision resolutions for block object.
+			- Work on conserving momentum when hopping through a ground portal to a wall portal. If player has momentum in the y direction
+			and enters a ground portal, that momentum should be conserved in the x direction, when exiting a wall portal.
 1. 11/10 - 11/16
 	* Manager: Evan Moran
 	* Goals:
