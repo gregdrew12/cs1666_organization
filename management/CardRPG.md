@@ -63,8 +63,17 @@
 1. 11/10 - 11/16
 	* Manager: Derek Halbedl
 	* Goals:
-		1. GOALHERE
-		...
+		1. Implement enemy variety
+			- Create multiple themed card decks in the back end for enemies to use in battle
+			- Develop a way to attach decks to specific enemies (whether randomly and/or ensuring unique decks belong to one enemy)
+		2. Add turn counters to status effects showing the remaining turns
+		3. Transition back to the overworld after a battle is won/lost
+			- Play will resume from the previous overworld position.
+			- Enemy will no longer be there to avoid instantly triggering another battle
+		4. Continue work on backend decision tree data structures and begin implementation of CPU opponent minimax algorithm
+		5. Client to Client communication via a Server
+			- Be able to demonstrate clients sending to and receiving data from the server in some capacity
+		
 1. 11/17 - 11/30
 	* Manager: NONE
 	* Goals:
