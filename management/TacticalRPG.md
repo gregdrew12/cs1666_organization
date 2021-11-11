@@ -40,7 +40,11 @@
 7. 11/10 - 11/16
 	* Manager: Bianca Finamore
 	* Goals:
-		1. GOALHERE
+		1. Translate the psuedocode for the enemy AI genetic minimax algorithm to implementation
+		2. Develop visual and audio assets to further flesh out the networking waiting room 
+		3. Incorporate music assets into player turn, enemy turn, and barbarian turn
+		4. Create pseudocode for struct to manage player turn over network and to hold data from actions performed per turn 
+		5. Complete outline for networking advanced topic presentation
 		...
 8. 11/17 - 11/30
 	* Manager: James Fenn
