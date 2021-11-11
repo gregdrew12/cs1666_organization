@@ -63,10 +63,12 @@
 			b. Chaining Bezier Curves
 			c. Procedural Generation Slides (due 11/15)
 		2. Physics Engine Team
-			a. More precisely track player movement (shift integers to floats while maintaining good game performance)
-			b. Static obstacle collisions
+			a. More precisely track and handle character positioning without ruining performance. Currently integers values are handling character position, need to 
+			shift to floating point values.
+			b. Non-game ending static obstacle collisions; handle the physics of those. (e.g. of non-game ending collision: player lands on the top of an object and 
+			rolls right off of it).
 		3. Other (contributors from Entire Team)
-			a. Begin work on power ups
+			a. Start on building the overall power up system. Only some backend structures and functions.
 1. 11/17 - 11/30
 	* Manager: NAME
 	* Goals:
