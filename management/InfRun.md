@@ -65,7 +65,7 @@
 		2. Physics Engine Team
 			a. More precisely track and handle character positioning without ruining performance. Currently integers values are handling character position, need to 
 			shift to floating point values.
-			b. Non-game ending static obstacle collisions; handle the physics of those. (e.g. of non-game ending collision: player lands on the top of an object and 
+			b. Static obstacle collisions; for animating crashes before the end screen and also for non-game ending collisions.
 			rolls right off of it).
 		3. Other (contributors from Entire Team)
 			a. Start on building the overall power up system. Only some backend structures and functions.
