@@ -25,13 +25,41 @@
 	* Why we chose this algorithm over the others
 	* Foreseeable issues with this algorithm in our game
 
-## Presentation 2
+## Presentation 2: Infinite Runner
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* **Speaker 1 (10 min)**
+	* How procedural generation is used in infinite runners
+	* Algorithms we are utilizing
+		* Perlin noise
+			* Main idea / introduction & common applications
+		* Bezier curves
+			* Main idea / introduction & common applications
+
+* **Speaker 2 (10 min)**
+	* Perlin noise in-depth
+		* Premise behind Perlin Noise
+		* One dimensional algorithm
+		* Two dimensional algorithm
+		* Visualizations and use cases
+		* Math details
+
+* **Speaker 3: (15 min)**
+	* Bezier Curves in-depth
+		* Algorithm walk-through
+			* Linear interpolation - the main idea of Bezier curves
+			* The different kinds of Bezier curves
+			* Visualization
+			* Written out algorithm and code.
+		* The kinds of curves that can be produced.
+		* Bezier chaining
+				* Examples
+				* Bezier chaining code.
+		* Types of curves we want to create (ie good for gameplay)
+
+* **Speaker 4: (10 min)**
+	* How to integrate Perlin with Bezier
+		* 2D mapping
+		* Semi-random control points via Perlin Noise
+		* Final curves
+	* Perlin noise examples w/ code discussion
+	* Bezier curve examples w/ code discussion
