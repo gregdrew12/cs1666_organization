@@ -68,8 +68,15 @@
 1. 11/10 - 11/16
 	* Manager: Davon Allensworth
 	* Goals:
-		1. GOALHERE
-		...
+		1. Implement scene shifting
+		    * Player can move from one level to another via stairs.
+		2. Implement raycasting method of detecting rigid body collisions
+		    * Collisions are detected via casting rays in direction of object velocity
+        3. Begin implementation of "absorption" mechanic
+            * Upon pressing E key, the player can absorb an enemy's ability.
+        4. Add a new enemy type
+            * Including new ability player can absorb.
+        
 1. 11/17 - 11/30
 	* Manager: NAME
 	* Goals:
