@@ -58,8 +58,14 @@
 1. 11/3 - 11/9
 	* Manager: David Bieler
 	* Goals:
-		1. GOALHERE
-		...
+		1. Improve UI
+			- Make cards more readable
+			- Add battle animations
+		2. Improve Overworld
+			- Make more enemies
+				- non-hardcoded
+			- Given enemies movement
+		3. Start implementing advanced topics
 1. 11/10 - 11/16
 	* Manager: Derek Halbedl
 	* Goals:
