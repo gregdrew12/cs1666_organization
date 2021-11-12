@@ -52,8 +52,16 @@
 1. 11/10 - 11/16
 	* Manager: Evan Moran
 	* Goals:
-		1. GOALHERE
-		...
+		1. General: 
+		 	- Have Player Death Condition and Reset Player Position to level start
+		 	- Add Ability to Cleanly End Credits Early
+		 	- Continue to Identify and Fix Bugs
+		2. Networking:
+			- Finish Support for Separate System Play
+			- Add Multithreading Support. Game will have separate threads for Game Simulation and Multiplayer Networking. Team may implement separate threads for Sending and Receiving or just have one thread total for handling the Networking.
+		3. Physics:
+			- Complete Pick-up-able Block implementation
+			- Implement the ability for blocks to go through portals
 1. 11/17 - 11/30
 	* Manager: Greg Sack
 	* Goals:
