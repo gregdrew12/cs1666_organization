@@ -58,8 +58,15 @@
 1. 11/10 - 11/16
 	* Manager: Ben Ungar
 	* Goals:
-		1. GOALHERE
-		...
+		1. Procedural Generation Team
+			a. Fluid camera movement
+			b. Chaining Bezier Curves
+			c. Procedural Generation Slides (due 11/15)
+		2. Physics Engine Team
+			a. More precisely track and handle character positioning without ruining performance. Currently integers values are handling character position, need to shift to floating point values.
+			b. Static obstacle collisions; for animating crashes before the end screen and also for non-game ending collisions.
+		3. Other (contributors from Entire Team)
+			a. Start on building the overall power up system. Only some backend structures and functions.
 1. 11/17 - 11/30
 	* Manager: NAME
 	* Goals:
