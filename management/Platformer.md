@@ -58,7 +58,7 @@
 		 	- Continue to Identify and Fix Bugs
 		2. Networking:
 			- Finish Support for Separate System Play
-			- Add Multithreading Support
+			- Add Multithreading Support. Game will have separate threads for Game Simulation and Multiplayer Networking. Team may implement separate threads for Sending and Receiving on Networking Side, or may just have one thread total for handling the Networking.
 		3. Physics:
 			- Complete Pick-up-able Block implementation
 			- Implement the ability for blocks to go through portals
