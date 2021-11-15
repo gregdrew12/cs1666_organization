@@ -38,20 +38,16 @@
 
 * Introduction (5 min)
 	* Quick summary of Newtonian physics
-* Examples of physics simualtions in other games (5 min)
-	* A simple and complex simulation
+	* Emphasis on linear momentum
 * Top Down physics (10 min)
+    * Uniqueness of our game (top-down)
 	* No gravity
-	* Friction and mass simulation
-	* Ballistics projectiles and richochet
-	* Rigidbody and soft body physics
+	* Ballistics projectiles and ricochet
 	* Raycast collision detection based on vectors
 * Collision Detection (10 min)
 	* Check all rigidbodies for collisions
 	* Benefits of raycasting
 * Collision resolution (10 min)
-	* Types of collisions
-		* Static vs. Dynamic
 	* Impulses and Linear algebra
 	* Common bugs caused by processing
 * Closing Statements (5 min)
