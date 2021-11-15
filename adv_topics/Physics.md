@@ -40,6 +40,7 @@
 	* Quick summary of Newtonian physics
 	* Emphasis on linear momentum
 * Top Down physics (10 min)
+    * Uniqueness of our game (top-down)
 	* No gravity
 	* Ballistics projectiles and ricochet
 	* Raycast collision detection based on vectors
