@@ -38,6 +38,7 @@
 
 * Introduction (5 min)
 	* Quick summary of Newtonian physics
+	* Emphasis on linear momentum
 * Top Down physics (10 min)
 	* No gravity
 	* Ballistics projectiles and ricochet
