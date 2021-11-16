@@ -83,11 +83,34 @@
 
 ## Presentation 3
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Authentication processes
+  * Importance of authentication
+    * Possibility of 'cheating' players
+    * Possibility for miscellaneous/corrupted connections to affect an unrelated game
+  * Overview of potential implementations
+* Event flow & polling
+  * Refresh of event driven programming => already had a lecture on the idea but a refresh is good for expanding on how it’s needed in the project
+    * Action => reaction style that is most notably seen on websites and other interactive media
+    * Usually, objects will wait/listen for some kind of input/interaction
+    * e.x. => JS on websites `onclick=`, buttons/input/links, player interactions in video games (controls)
+    * This makes it so that programs can run more efficiently, only working on things as they are requested to do so
+  * For the sake of networking
+    * Actions of one player can be “converted” into events to be received by the second player
+    * instead of sending every event as they happen though, keep a list of the actions taken and send them at specific intervals
+      * as a player moves, attacks, etc. this is kept track of and eventually sent to the second user’s end where everything is updated to comply with the actions the first player has taken
+      * visual example of an average player turn and how that would be sent over to the server/other player
+* Our Implementation
+  * Networking structure
+    * One shared server that communicates with all client connections
+    * “Host” client as the owner of the room
+    * “Peer” client joins a created room
+  * Room creation process
+    * Room code generation
+    * Random token generation
+    * Request from ‘host’ client: () -> room code + token
+    * Request from ‘peer’ client: (room code) -> token
+    * Any future requests: (room code + token) -> response
+  * Polling details
+    * Techniques to avoid frame loss (postponing polls, max conn. length, fixed data size)
+    * Updating the game state on each client
+
