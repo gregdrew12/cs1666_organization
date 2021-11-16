@@ -34,13 +34,24 @@
 		* Hitboxes
 		* Player's x bounded screen location
 
-## Presentation 3
+## Presentation 3: Roguelike
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Introduction (5 min)
+	* Quick introduction to linear algebra
+	* Emphasis on linear momentum
+* Top Down physics (10 min)
+    * Uniqueness of our game (top-down)
+	* No gravity
+	* Ballistics projectiles and ricochet
+	* Raycast collision detection based on vectors
+* Collision Detection (10 min)
+	* Check all rigidbodies for collisions
+	* Collision with multiple objects
+	* Benefits of raycasting 
+* Collision resolution (10 min)
+	* Impulses and Linear algebra
+	* Resolving Collisions with multiple objects
+	* Common bugs caused by processing
+* Closing Statements (5 min)
+	* Show the current state of the physics system
+	* Talk about possible improvements
