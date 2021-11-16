@@ -46,9 +46,11 @@
 	* Raycast collision detection based on vectors
 * Collision Detection (10 min)
 	* Check all rigidbodies for collisions
-	* Benefits of raycasting
+	* Collision with multiple objects
+	* Benefits of raycasting 
 * Collision resolution (10 min)
 	* Impulses and Linear algebra
+	* Resolving Collisions with multiple objects
 	* Common bugs caused by processing
 * Closing Statements (5 min)
 	* Show the current state of the physics system
