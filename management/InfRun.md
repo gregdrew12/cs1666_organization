@@ -70,8 +70,14 @@
 1. 11/17 - 11/30
 	* Manager: NAME
 	* Goals:
-		1. GOALHERE
-		...
+		1. Advanced terrain work
+			a. New terrain types and visualizations of them 
+			b. Physics handling of new terrain types
+		2. Camera tracking to player's x velocity 
+		3. Smooth bezeir curve implemented into the game's code instead of the simulation scene
+		4. Variable jump with physics - Short press, short jump, long press, higher jump to cap out at some height
+		5. Proper physics implementation of power ups instead of mostly hard coding
+		6. Overhaul, clean up, and mass commenting of Proc Gen code
 1. 12/1 - 12/7
 	* Manager: Drew Wiesen
 	* Goals:
