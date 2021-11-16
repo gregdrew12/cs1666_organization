@@ -71,9 +71,12 @@
 	* Manager: NAME
 	* Goals:
 		1. Advanced terrain work
-			a. New terrain types and visualizations of them 
-			b. Physics handling of new terrain types
-		2. Camera tracking to player's x velocity 
+			1. New terrain types and visualizations of them 
+				1. Asphalt (Lower friction)
+				2. Sand (Higher friction)
+				3. Water (Buoyancy) 	
+			2. Physics handling of new terrain types
+		2. Apply camera tracking to player's x velocity 
 		3. Smooth bezeir curve implemented into the game's code instead of the simulation scene
 		4. Variable jump with physics - Short press, short jump, long press, higher jump to cap out at some height
 		5. Proper physics implementation of power ups instead of mostly hard coding
