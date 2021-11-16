@@ -37,7 +37,7 @@
 ## Presentation 3: Roguelike
 
 * Introduction (5 min)
-	* Quick summary of Newtonian physics
+	* Quick introduction to linear algebra
 	* Emphasis on linear momentum
 * Top Down physics (10 min)
     * Uniqueness of our game (top-down)
