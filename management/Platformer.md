@@ -65,8 +65,16 @@
 1. 11/17 - 11/30
 	* Manager: Greg Sack
 	* Goals:
-		1. GOALHERE
-		...
+		1. General:
+			- "Spawn" new block at beginning of each level (block currently maintains position on screen through level transitions)
+		 	- Implement level restart button
+		 	- Continue to Identify and Fix Bugs
+		2. Networking:
+			- Finish Support for Separate System Play
+			- Limit multiplayer portal creation to one portal per player and allow both players to travel through eachothers' portal.
+		3. Physics:
+			- Implement block and obstacle collision (block falls through non-portal walls and platforms)
+			- Implement pressure plate and player's ability to activate it 
 1. 12/1 - 12/7
 	* Manager: Bryce Anderson
 	* Goals:
