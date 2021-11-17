@@ -89,7 +89,7 @@
 			* One shop will spawn on each level
 			* The shop will contain no monsters or obstacles
 		4. Begin implementing the boss room and boss fight
-			* The boss fight will be able to be reached after the player makes it through three levels of the dungeon
+			* The boss fight will be reached after the player makes it through three levels of the dungeon
 		5. Finish implementing raycasting for the physics engine
 1. 12/1 - 12/7
 	* Manager: Yihua Pu
