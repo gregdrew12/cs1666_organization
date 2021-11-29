@@ -49,9 +49,13 @@
 8. 11/17 - 11/30
 	* Manager: James Fenn
 	* Goals:
-		1. GOALHERE
-		...
-9. 12/1 - 12/7
+		1. Abstract map rendering from singleplayer functions to implement in multiplayer
+		2. Communicate basic turn events through multiplayer
+		3. Implement random chance for additional unit spawning after defeating a barbarian
+		4. Develop assets and behavior for the additional classes stretch goal
+		5. Improve enemy AI navigation towards map objectives
+		6. Begin creating slides for the networking advanced topic presentation
+9.  12/1 - 12/7
 	* Manager: Shane Josapak
 	* Goals:
 		1. GOALHERE
