@@ -78,10 +78,19 @@
             * Including new ability player can absorb.
         
 1. 11/17 - 11/30
-	* Manager: NAME
+	* Manager: NO MANAGER
 	* Goals:
-		1. GOALHERE
-		...
+		1. Add another weapon that the player can pick up
+			* Players will only be able to have one weapon at a time
+		2. Add another enemy to the game
+			* The player will be able to absorb this enemy's ability
+		3. Implement the shop room
+			* Players can spend coins that they gather from defeating enemies to pay for upgrades at the shop
+			* One shop will spawn on each level
+			* The shop will contain no monsters or obstacles
+		4. Begin implementing the boss room and boss fight
+			* The boss fight will be reached after the player makes it through three levels of the dungeon
+		5. Finish implementing raycasting for the physics engine
 1. 12/1 - 12/7
 	* Manager: Yihua Pu
 	* Goals:
