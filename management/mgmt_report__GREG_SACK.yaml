@@ -43,7 +43,7 @@ team_members:
     desc: ""
   apb62:
     score: 0
-    desc: ""
+    desc: "and some general system refactoring and organization"
   arb204:
     score: 0
     desc: ""
@@ -52,4 +52,4 @@ team_members:
     desc: ""
   jcm155:
     score: 0
-    desc: ""
+    desc: "Implemented pressure plate and door system and fixed teleport bugs"
