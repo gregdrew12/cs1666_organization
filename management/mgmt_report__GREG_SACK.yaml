@@ -1,0 +1,55 @@
+# Magagment week end report
+manager_name: "Greg Sack"
+week: 8
+# Specific goals:
+goal:
+  - desc: "Spawn new block at beginning of each level (block currently maintains position on screen through level transitions)"
+    prs: [78]
+    status: "Complete"
+  - desc: "Implement level restart button"
+    prs: [80]
+    status: "Complete"
+  - desc: "Continue to Identify and Fix Bugs"
+    prs: [76]
+    status: "In Progress"
+  - desc: "Finish Support for Separate System Play Over Network"
+    prs: []
+    status: ""
+  - desc: "Limit multiplayer portal creation to one portal per player and allow both players to travel through each others' portal"
+    prs: []
+    status: ""
+  - desc: "Implement block and obstacle collision (block falls through non-portal walls and platforms)"
+    prs: [79]
+    status: "Complete"
+  - desc: "Implement pressure plate and player's ability to activate it"
+    prs: [81]
+    status: "Complete"
+# Team member evalution
+team_members:
+  grs76:
+    score: 0
+    desc: "Implemented block respawning across levels and unique starting position for each level"
+  jms608:
+    score: 0
+    desc: "Helped implement block collisions for all surfaces and did some code organization in the game loop"
+  mat253:
+    score: 0
+    desc: "Worked on the block collisions and added level restart button"
+  ecm61:
+    score: 0
+    desc: "Did a lot of bug reporting and fixes, reimplemented exit-able credits after game completion, and helped with networking"
+  ata33:
+    score: 0
+    desc: ""
+  apb62:
+    score: 0
+    desc: ""
+  arb204:
+    score: 0
+    desc: ""
+  baa104:
+    score: 0
+    desc: ""
+  jcm155:
+    score: 0
+    desc: ""
