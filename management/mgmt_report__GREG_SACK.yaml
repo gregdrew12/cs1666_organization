@@ -14,10 +14,10 @@ goal:
     status: "In Progress"
   - desc: "Finish Support for Separate System Play Over Network"
     prs: []
-    status: ""
+    status: "In Progress"
   - desc: "Limit multiplayer portal creation to one portal per player and allow both players to travel through each others' portal"
     prs: []
-    status: ""
+    status: "In Progress"
   - desc: "Implement block and obstacle collision (block falls through non-portal walls and platforms)"
     prs: [79]
     status: "Complete"
@@ -40,13 +40,13 @@ team_members:
     desc: "Did a lot of bug reporting and fixes, reimplemented exit-able credits after game completion, and helped with networking"
   ata33:
     score: 0
-    desc: ""
+    desc: "Worked on separate system network play"
   apb62:
     score: 0
-    desc: "and some general system refactoring and organization"
+    desc: "Worked with Austin on finalizing remote player animations and organized our main game method"
   arb204:
     score: 0
-    desc: ""
+    desc: "Worked with Alvyn on finalizing remote player animations"
   baa104:
     score: 0
     desc: ""
